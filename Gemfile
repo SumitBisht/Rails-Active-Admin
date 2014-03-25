@@ -47,4 +47,4 @@ end
 # Presence of Active Admin gem
   gem 'activeadmin', github: 'gregbell/active_admin'
  
-  gem "meta_search"
+  #gem "meta_search"
