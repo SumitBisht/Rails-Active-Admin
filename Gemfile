@@ -43,3 +43,8 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Presence of Active Admin gem
+  gem 'activeadmin', github: 'gregbell/active_admin'
+ 
+  gem "meta_search"
